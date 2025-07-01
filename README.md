@@ -1,4 +1,4 @@
-  # 🎱 Hi! I`m João 
+  # 🎱 Hi! I'm João 
   
 I'm a junior front-end developer currently learning mobile development using Swift and React Native, also studying Information Systems at university. All projects here are experimental ideas and personal practice to improve my skills and learn more every day.
 

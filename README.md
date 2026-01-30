@@ -1,6 +1,9 @@
   # 🎱 Hi! I'm João 
   
-I'm a junior front-end developer currently learning mobile development using Swift and React Native, also studying Information Systems at university. All projects here are experimental ideas and personal practice to improve my skills and learn more every day.
+I’m a junior front-end developer currently expanding my skills into backend development with Node.js and Express.js, and learning how to work with databases like PostgreSQL.
+I’m also studying Information Systems at university.
+
+Most of the projects you’ll find here are experimental ideas and personal practice, built to sharpen my skills and help me learn something new every day.
 
 # 🍜 Hobbies
 I really enjoy challenging myself through coding but that's not the only area where I push my limits, also love experimenting in the kitchen, trying out new recipes to cook for my family and friends.
